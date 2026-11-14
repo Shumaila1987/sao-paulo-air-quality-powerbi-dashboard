@@ -67,3 +67,10 @@ Both datasets come from the official São Paulo state air quality monitoring net
 This project overview
 Preview image of the map dashboard
 Thanks for stopping by! If you have any questions or spot something that could be improved, feel free to reach out. 😊
+
+##  Credits
+Project designed and built by **Shumaila**
+
+Connect with me on [LinkedIn](
+www.linkedin.com/in/shumaila-liaqat) or view more of my portfolio!
+www.shumailaliaqat
