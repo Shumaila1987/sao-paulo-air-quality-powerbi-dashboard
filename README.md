@@ -20,7 +20,9 @@ I built this to practice working with geospatial data, merging separate datasets
   Navigation controls — Zoom buttons for easier viewing; map labels for reference
 ​
   Clean design — Road-map style background so the focus stays on the data
-
+  
+  ## Data Sources
+  
   Dataset	Contents
 Station Coordinates	Station names, latitude, and longitude for every monitoring point
 Sensor Readings	Time‑series air‑quality measurements including PM2.5, NO₂, O₃, CO, and more
