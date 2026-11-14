@@ -28,14 +28,6 @@ I built this to practice working with geospatial data, merging separate datasets
 | **Station Coordinates** | Station names, latitude, and longitude for every monitoring point |
 | **Sensor Readings** | Time‑series air‑quality measurements including PM2.5, NO₂, O₃, CO, and more |
 
-Both datasets come from the official São Paulo state air‑quality‑monitoring network. I cleaned and prepared them separately before linking them together in Power BI — the coordinates tell the map where to place each marker, while the sensor data provides the readings shown in the tooltips.
-  
-  ## Data Sources
-  
-  Dataset	Contents
-Station Coordinates	Station names, latitude, and longitude for every monitoring point
-Sensor Readings	Time‑series air‑quality measurements including PM2.5, NO₂, O₃, CO, and more
-
 Both datasets come from the official São Paulo state air quality monitoring network. I cleaned and prepared them separately before linking them together in Power BI — the coordinates tell the map where to place each marker, and the sensor data provides the readings shown in the tooltips.
 
 ## What I Did
@@ -66,8 +58,12 @@ Both datasets come from the official São Paulo state air quality monitoring net
 
   ## Files in This Repository
 
-- File	Description
-The full Power BI project file
+| File |	Description |
+|---|---|
+| **Air_quailty_Monitoring_Map_SaoPaulo.pbix** | The full Power BI project file |
+| **README.md** | This project overview |
+| **sao-paulo-air-quality-pm25-powerbi-dashboard.png** | Screenshort of the Dashboard |
+
 This project overview
 Preview image of the map dashboard
 Thanks for stopping by! If you have any questions or spot something that could be improved, feel free to reach out. 😊
