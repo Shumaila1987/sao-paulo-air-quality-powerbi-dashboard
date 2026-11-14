@@ -20,6 +20,15 @@ I built this to practice working with geospatial data, merging separate datasets
   Navigation controls — Zoom buttons for easier viewing; map labels for reference
 ​
   Clean design — Road-map style background so the focus stays on the data
+
+  ## 📂 Data Sources
+
+| Dataset | Contents |
+|---|---|
+| **Station Coordinates** | Station names, latitude, and longitude for every monitoring point |
+| **Sensor Readings** | Time‑series air‑quality measurements including PM2.5, NO₂, O₃, CO, and more |
+
+Both datasets come from the official São Paulo state air‑quality‑monitoring network. I cleaned and prepared them separately before linking them together in Power BI — the coordinates tell the map where to place each marker, while the sensor data provides the readings shown in the tooltips.
   
   ## Data Sources
   
